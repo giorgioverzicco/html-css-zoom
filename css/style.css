@@ -146,7 +146,7 @@ footer {
   justify-content: space-between;
   align-items: center;
 
-  height: 60px;
+  min-height: 60px;
   color: #a7a7a7;
   background-color: #212121;
   padding: 0 5px;
