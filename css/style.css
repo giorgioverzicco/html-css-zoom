@@ -113,13 +113,13 @@ main {
 .cell__img {
   height: 0;
   padding-top: 56.25%;
-  background-image: url('https://picsum.photos/1920/1080');
+  background-image: url('../img/super-mirko.jpg');
   background-position: center;
   background-size: cover;
 }
 
 .cell__img-bonus {
-  background-image: url('https://picsum.photos/1920/1080');
+  background-image: url('../img/super-samu.jpg');
 }
 
 .cell__user-name {
