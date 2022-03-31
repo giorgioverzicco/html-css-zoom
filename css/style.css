@@ -125,7 +125,7 @@ main {
 .cell__user-name {
   position: absolute;
   bottom: 5px;
-  left: 10px;
+  left: 5px;
   color: white;
   background-color: #302e2b;
   padding: 5px;
