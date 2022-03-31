@@ -175,6 +175,12 @@ footer {
   position: relative;
 }
 
+.footer__action-btn:hover,
+.footer__action-btn:focus {
+  background-color: #383838;
+  border-radius: 10px;
+}
+
 .footer__open-settings {
   position: absolute;
   top: 20%;
